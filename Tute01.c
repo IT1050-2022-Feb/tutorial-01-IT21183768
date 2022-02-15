@@ -5,8 +5,7 @@
 //IT21183768
 #include <stdio.h>
 
-int main()
-{
+int main() {
   int marks1, marks2;
   float average;
 
